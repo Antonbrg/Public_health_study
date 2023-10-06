@@ -1,7 +1,8 @@
 # Public_health_study
 A brief analysis of the world's undernourished population
 
-The aim of this project is to carry out a study on the subject of malnutrition in the world.
+
+My goal is to carry out a study on the subject of malnutrition in the world. The study is based on data from the FAOSTAT website, with data from 2013 to 2017.
 
 **This is my first project written in Python**
 
